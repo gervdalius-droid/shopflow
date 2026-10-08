@@ -1,0 +1,9 @@
+realdata.js
+.shot*.html
+TEAM_PINS.md
+sync-config.js
+deploy/
+dist/
+ShopFlow-Login-Guide.*
+
+.DS_Store
